@@ -10,7 +10,7 @@ int main()
     // output :
     printf("output :\n \naddition = %d\n", a + b);
     printf("subtraction = %d\n", a - b);
-    printf("nultiplication = %d\n", a * b);
+    printf("multiplication = %d\n", a * b);
     printf("division = %.3f\n", div);
     printf("modulo = %d\n", a % b);
 
